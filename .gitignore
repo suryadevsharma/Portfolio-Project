@@ -1,0 +1,27 @@
+# Python compiled files
+__pycache__/
+*.py[cod]
+*.so
+
+# Environment
+env/
+venv/
+.venv/
+
+# Editor folders
+.vscode/
+.idea/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# SQLite database (optional to ignore)
+db.sqlite3
+
+# Secret env variables
+.env
+
+# Migrations (optional if regenerating)
+*/migrations/__pycache__/
+*.log
